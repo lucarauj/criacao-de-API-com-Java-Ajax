@@ -118,11 +118,11 @@ spring.jpa.database-platform=org.hibernate.dialect.PostgreSQL9Dialect
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 <div style="display: inline_block"><br>
-<img align="center" alt="Lucarauj-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="Lucarauj-Postman" height="50" width="90" src="https://github.com/lucarauj/assets/blob/main/postman.png">
-<img align="center" alt="Lucarauj-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-<img align="center" alt="Lucarauj-Postgresql" height="40" width="50" src="https://github.com/lucarauj/assets/blob/main/postgresql.svg">
-<img align="center" alt="Lucarauj-JQuery" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
+<img align="center" alt="Lucarauj-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" alt="Lucarauj-Postman" height="60" width="110" src="https://github.com/lucarauj/assets/blob/main/postman.png">
+<img align="center" alt="Lucarauj-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+<img align="center" alt="Lucarauj-Postgresql" height="50" width="60" src="https://github.com/lucarauj/assets/blob/main/postgresql.svg">
+<img align="center" alt="Lucarauj-JQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
           
 </div>
 
